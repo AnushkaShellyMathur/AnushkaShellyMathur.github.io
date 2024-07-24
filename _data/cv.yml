@@ -21,13 +21,13 @@
       institution: Ramanujan College, University Of Delhi, Delhi
       year: 2023
       description:
-        - Overall 9.486 CGPA 
+        - Overall 9.486 CGPA
         - Topper for batch of 2020-23
     - title: Master of Computer Application
       institution: Amity University, Noida
       year: 2025
       description:
-        - Current score of 9.38 GPA 
+        - Current score of 9.38 GPA
 
 - title: Experience
   type: time_table
@@ -38,7 +38,7 @@
       description:
         - Curated content and wrote articles about global eminent issues.
         - Attended online session and seminars regarding global warming, BLM movement, and menstrual hygiene.
-        
+
     - title: Content Writer (Intern)
       institution: ExpertEmployee
       year: 2021
@@ -51,7 +51,7 @@
       year: 2021 - 2022
       description:
         - Helped conduct Turington 2021, the annual Tech Fest of RCDU
-        - Created and managed the creative dept 
+        - Created and managed the creative dept
         - Helped increase visibility of official page of QuikSort
 
     - title: President
@@ -65,7 +65,7 @@
 
     - title: iOS Trainee
       institution: Abbacus Technologies
-      year: 2024 
+      year: 2024
 
 - title: Open Source Projects
   type: time_table
