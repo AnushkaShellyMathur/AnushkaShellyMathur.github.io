@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore my portfolio to see the projects I've completed so far.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [SwiftUI, Python, UX Design]
 horizontal: false
 ---
 
