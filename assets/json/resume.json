@@ -1,36 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anushka Shelly Mathur",
+    "label": "iOS Developer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "anushka.shelly.dev@gmail.com",
+    "phone": "+91 9311620808",
+    "url": "https://anushkashellymathur.github.io/",
+    "summary": "MCA student with keen interest in UX design and Apple software development",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "asm2201",
+        "url": "https://www.linkedin.com/in/asm2201/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The Intelligent Indian",
+      "position": "Content Writer (Intern)",
+      "url": "https://www.theintelligentindian.org/",
+      "startDate": "2020-06",
+      "endDate": "2020-07",
+      "summary": "Curated content and wrote articles about global eminent issues. I attended online session and seminars regarding global warming, BLM movement, and menstrual hygiene.",
+    },
+    {
+      "name": "ExpertEmployee",
+      "position": "Content Writer (Intern)",
+      "url": "https://www.linkedin.com/company/expertemploye/",
+      "startDate": "2021-08",
+      "endDate": "2021-08",
+      "summary": "It is a venture by NIT Kurukshetra to promote mentorship and career counselling. I researched myths and possible solutions for the same and published articles on LinkedIn.",
+    }, 
+    {
+      "name": "QuikSort, The Computer Science Society Of RCDU",
+      "position": "Creative Sub-Head",
+      "url": "https://www.instagram.com/quiksort.rcdu/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Helped conduct Turington 2021, the annual Tech Fest of RCDU. Created and managed the creative dept to conduct various workshops successfully and increase visibility of our official Instagram page.",
+    }, 
+    {
+      "name": "QuikSort, The Computer Science Society Of RCDU",
+      "position": "President",
+      "url": "https://www.instagram.com/quiksort.rcdu/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": " ",
+      "highlights": ["Mentored students in curriculum", "Conducted Turington 2023, the annual Tech Fest of RCDU", "Conducted quizes and alumni talks", "Conducted Hackathon (TechSprint) with IIC RCDU"]
+    }, 
+    {
+      "name": "Abbacus Technologies",
+      "position": "iOS Trainee",
+      "url": "https://www.abbacustechnologies.com/",
+      "startDate": "2024-05",
+      "endDate": "2024-07",
+      "summary": "Developed several iOS apps and also learnt about php in web technologies.",
     }
   ],
   "volunteer": [
